@@ -1,8 +1,6 @@
 require 'sinatra'
 require 'sinatra/activerecord'
 require 'sinatra/reloader'
-require 'nokogiri'
-require 'open-uri'
 require 'httparty'
 require 'json'
 
