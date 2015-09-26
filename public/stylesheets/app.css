@@ -1,0 +1,19 @@
+.question {
+  color: white;
+  -webkit-text-stroke: 1.5px black;
+  font-size: 2em;
+}
+
+.answer {
+  color: white;
+  top: 55%;
+  left: 44%;
+  position: fixed;
+  font-size: 2em;
+}
+
+html {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/d/de/Fenway_Park_2009.jpg") no-repeat center center fixed;
+    background-color: #cccccc;
+    background-size: cover;
+}
